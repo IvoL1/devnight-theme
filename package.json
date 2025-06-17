@@ -2,7 +2,7 @@
   "name": "DevNight",
   "displayName": "DevNightTheme",
   "description": "A modern color theme inspired by DeepSeek's aesthetic. Designed for clarity and a comfortable coding experience.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.101.0"
   },
