@@ -1,0 +1,21 @@
+{
+  "name": "DevNight",
+  "displayName": "DevNightTheme",
+  "description": "A modern color theme inspired by DeepSeek's aesthetic. Designed for clarity and a comfortable coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DevNight DeepSeek",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DevNight DeepSeek-color-theme.json"
+      }
+    ]
+  }
+}
